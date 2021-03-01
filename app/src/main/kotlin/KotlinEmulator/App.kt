@@ -57,6 +57,7 @@ class Cpu() {
     }
 }
 
+// LOLOL
 fun main(args: Array<String>) {
     var cpu = Cpu()
     cpu.Reset()

@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66d0e974-1e34-48f3-993e-0b33a86551d0" name="Default Changelist" comment="wip(Noggerson): Project setup and first application entry impl">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/KotlinEmulator/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/kotlin/KotlinEmulator/AppTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/KotlinEmulator/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/KotlinEmulator/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614550625019</updated>
       <workItem from="1614550628354" duration="2023000" />
-      <workItem from="1614557431947" duration="11198000" />
+      <workItem from="1614557431947" duration="12030000" />
     </task>
     <servers />
   </component>
